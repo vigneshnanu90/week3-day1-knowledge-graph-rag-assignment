@@ -1,0 +1,357 @@
+[
+  {
+    "clean_title": "Kalaignarin All Village Integrated Agricultural Development Programme (KAVIADP)",
+    "concise_description": "The KAVIADP aims for holistic agricultural development across all Village Panchayats in Tamil Nadu by cultivating fallow lands, enhancing water resources, and distributing farm implements. It focuses on increasing food grain production and farmers' income.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers",
+      "Marginal Farmers",
+      "SC/ST Beneficiaries"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "100% subsidy for distribution of coconut saplings, horticultural plants, and soil health cards"
+      },
+      {
+        "category": "Financial Subsidy",
+        "detail": "50% subsidy up to Rs. 50,000 for farm machinery and power tillers"
+      },
+      {
+        "category": "Equipment Grant",
+        "detail": "Free solar pump sets for SC/ST small farmers"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Bank Passbook",
+      "Passport Size Photo",
+      "Community Certificate"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Must own agricultural land in targeted Village Panchayats of Tamil Nadu",
+        "income_limit": null,
+        "land_or_age_criteria": "Small and marginal farmers"
+      }
+    ],
+    "scheme_id": "TN_SCHEME_001",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Pradhan Mantri Krishi Sinchayee Yojana - Micro Irrigation Scheme",
+    "concise_description": "This scheme provides subsidy assistance for installing drip and sprinkler irrigation systems to enhance water-use efficiency in agriculture and horticulture crops. It primarily benefits Small and Marginal Farmers in Tamil Nadu.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers",
+      "Marginal Farmers"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "100% subsidy for Small and Marginal Farmers (up to 2 hectares) and 75% subsidy for Other Farmers (up to 5 hectares)"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Bank Passbook"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Resident farmers of Tamil Nadu cultivating agricultural or horticultural crops with an assured irrigation water source",
+        "income_limit": null,
+        "land_or_age_criteria": "Small and Marginal Farmers (up to 2 hectares)"
+      }
+    ],
+    "scheme_id": "TN_SCHEME_002",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Chief Minister's Solar Powered Pump Set Scheme",
+    "concise_description": "This scheme provides a 70% subsidy for farmers in Tamil Nadu to install standalone off-grid solar powered agricultural pump sets for daytime irrigation. It aims to ensure reliable power for irrigation without reliance on the grid.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "70% subsidy on total cost of 5 HP, 7.5 HP, and 10 HP solar pump sets"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Bank Passbook"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Farmers in Tamil Nadu owning agricultural land with existing irrigation wells/borewells",
+        "income_limit": null,
+        "land_or_age_criteria": "Must not have an existing free agricultural EB service connection or willing to opt out"
+      }
+    ],
+    "scheme_id": "TN_SCHEME_003",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Sub-Mission on Agricultural Mechanization (SMAM) - Farm Machinery Subsidy",
+    "concise_description": "This scheme provides financial subsidies for purchasing agricultural machinery to help offset labor shortages and reduce cultivation costs. It primarily benefits Small, Marginal, Women, and SC/ST farmers, as well as other farmers and rural entrepreneurs.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers",
+      "Marginal Farmers",
+      "Women",
+      "SC/ST Beneficiaries",
+      "Entrepreneurs"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "50% subsidy (up to Rs. 1.25 lakh to Rs. 5 lakh depending on machine) for Small, Marginal, Women, and SC/ST farmers"
+      },
+      {
+        "category": "Financial Subsidy",
+        "detail": "40% subsidy for other farmers"
+      },
+      {
+        "category": "Financial Subsidy",
+        "detail": "40% subsidy up to Rs. 10 lakh for establishing Custom Hiring Centres"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Bank Passbook",
+      "Community Certificate"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Individual farmers, Farmer Producer Organizations (FPOs), and rural entrepreneurs registered on the Uzhavan / TNAU agricultural engineering portal",
+        "income_limit": null,
+        "land_or_age_criteria": null
+      }
+    ],
+    "scheme_id": "TN_SCHEME_004",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Kuruvai Cultivation Special Package Scheme",
+    "concise_description": "This scheme provides a special input subsidy package for farmers in the Delta districts of Tamil Nadu to maximize paddy area and yield during the Kuruvai season. It includes benefits such as certified paddy seeds, micronutrients, and bio-fertilizers.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "100% subsidy on machine transplanting charges (up to Rs. 4,000 per acre)"
+      },
+      {
+        "category": "Input Supply",
+        "detail": "Certified high-yielding paddy seeds"
+      },
+      {
+        "category": "Input Supply",
+        "detail": "Zinc sulphate"
+      },
+      {
+        "category": "Input Supply",
+        "detail": "Liquid bio-fertilizers"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Bank Passbook"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Must be a paddy farmer cultivating Kuruvai crop in Cauvery Delta districts",
+        "income_limit": null,
+        "land_or_age_criteria": "Maximum up to 1 hectare per farmer"
+      }
+    ],
+    "scheme_id": "TN_SCHEME_005",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Tamil Nadu Millet Mission",
+    "concise_description": "The Tamil Nadu Millet Mission aims to increase millet cultivation and improve nutritional security while supporting millet processing units. It provides financial incentives for farmers and women's self-help groups involved in millet production and processing.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers",
+      "Women",
+      "Entrepreneurs"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "Input subsidy of Rs. 2,000 per hectare for certified millet seeds and bio-inputs"
+      },
+      {
+        "category": "Financial Subsidy",
+        "detail": "50% subsidy up to Rs. 5 lakh for FPOs and women self-help groups to set up millet processing and value-addition units"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Bank Passbook",
+      "FPO/SHG Registration Certificate"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Farmers cultivating millets in designated millet zones of Tamil Nadu",
+        "income_limit": null,
+        "land_or_age_criteria": null
+      },
+      {
+        "rule_summary": "Registered Women SHGs / FPOs",
+        "income_limit": null,
+        "land_or_age_criteria": null
+      }
+    ],
+    "scheme_id": "TN_SCHEME_006",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Pradhan Mantri Fasal Bima Yojana (PMFBY) - Crop Insurance Scheme",
+    "concise_description": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) provides comprehensive crop yield insurance to protect farmers against losses due to natural calamities, pests, and unseasonal rainfall. It aims to financially stabilize farmers suffering from crop loss due to adverse weather conditions.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers",
+      "Marginal Farmers"
+    ],
+    "benefits": [
+      {
+        "category": "Insurance",
+        "detail": "Sum insured up to Rs. 35,000 to Rs. 85,000 per hectare depending on notified crop; farmers pay only 1.5% premium for Rabi crops and 2% for Kharif crops."
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal",
+      "Village Administrative Officer (VAO) Sowing Certificate",
+      "Bank Passbook"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "All loanee and non-loanee farmers cultivating notified crops in notified firkas/villages of Tamil Nadu",
+        "income_limit": null,
+        "land_or_age_criteria": null
+      }
+    ],
+    "scheme_id": "TN_SCHEME_007",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Free Electricity Supply to Agricultural Pump Sets",
+    "concise_description": "This scheme provides 100% free electricity tariff for registered agricultural pump sets to eliminate the power tariff burden for irrigation of food and cash crops across Tamil Nadu.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "100% free electricity tariff for registered agricultural pump sets"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Chitta / Adangal"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Farmers owning minimum 0.5 acres of agricultural land in Tamil Nadu with a valid irrigation well or borewell",
+        "income_limit": null,
+        "land_or_age_criteria": "Minimum 0.5 acres of agricultural land"
+      }
+    ],
+    "scheme_id": "TN_SCHEME_008",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Chief Minister's Uzhavar Pathukappu Thittam",
+    "concise_description": "This scheme provides comprehensive social security for small and marginal farmers and agricultural laborers in Tamil Nadu, covering educational scholarships, marriage assistance, accident relief, and old-age pensions.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Small Farmers",
+      "Marginal Farmers",
+      "Agricultural Laborers"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "Monthly pension of Rs. 1,000 for destitute farmers aged 60+"
+      },
+      {
+        "category": "Financial Assistance",
+        "detail": "Rs. 2,00,000 accidental death relief"
+      },
+      {
+        "category": "Financial Assistance",
+        "detail": "Rs. 20,000 natural death assistance"
+      },
+      {
+        "category": "Educational Scholarship",
+        "detail": "Scholarships from Rs. 1,250 to Rs. 6,500 per year for farmers' children"
+      },
+      {
+        "category": "Financial Assistance",
+        "detail": "Marriage assistance up to Rs. 10,000"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Uzhavar Pathukappu Identity Card",
+      "Ration Card",
+      "Income Certificate",
+      "Bank Passbook"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Must be a small or marginal farmer owning up to 2.5 acres of wetland or 5 acres of dryland",
+        "income_limit": null,
+        "land_or_age_criteria": "Small and marginal farmers and registered agricultural laborers aged 18 to 65"
+      }
+    ],
+    "scheme_id": "TN_SCHEME_009",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  },
+  {
+    "clean_title": "Agri-Clinics and Agri-Business Centres (ACABC) Youth Entrepreneurship Scheme",
+    "concise_description": "This scheme empowers unemployed agriculture graduates and diploma holders to establish agri-ventures and soil testing labs, providing extension services to farmers. It offers credit-linked back-ended subsidies to support their entrepreneurial efforts.",
+    "department_name": "Agriculture and Farmers Welfare Department",
+    "beneficiary_groups": [
+      "Women",
+      "SC/ST Beneficiaries",
+      "Entrepreneurs"
+    ],
+    "benefits": [
+      {
+        "category": "Financial Subsidy",
+        "detail": "44% back-ended composite subsidy for Women, SC/ST, and North-Eastern candidates; 36% subsidy for General category candidates on project loans up to Rs. 20 lakh (Rs. 100 lakh for group projects)"
+      }
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Degree/Diploma Certificate",
+      "Project Report",
+      "Bank Loan Sanction Letter",
+      "Community Certificate"
+    ],
+    "eligibility_rules": [
+      {
+        "rule_summary": "Must be a graduate or diploma holder in Agriculture, Horticulture, Animal Husbandry, Forestry, or Dairy Technology domiciled in Tamil Nadu",
+        "income_limit": null,
+        "land_or_age_criteria": null
+      }
+    ],
+    "scheme_id": "TN_SCHEME_010",
+    "source_url": "https://www.tn.gov.in/scheme_list.php?dep_id=Mg=="
+  }
+]

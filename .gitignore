@@ -1,0 +1,32 @@
+# Environment & Secrets (NEVER commit API keys or Neo4j AuraDB passwords)
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environment & Cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Node / React / Vite Frontend
+frontend/node_modules/
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+
+# Temporary Scraper Debug Dumps
+backend/data/debug_page.html
+
+# OS & Editor Metadata
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.log
+npm-debug.log*
